@@ -1,0 +1,6 @@
+{
+  "name": "Kế Hoạch & Sổ Báo Giảng Toán THPT 10-11-12",
+  "description": "Ứng dụng lập kế hoạch giảng dạy, sổ báo giảng điện tử và quản lý phân phối chương trình Toán 10, 11, 12 (Toán chính khóa, Chuyên đề, Ôn tốt nghiệp) tích hợp AI trợ lý phân tích TKB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
